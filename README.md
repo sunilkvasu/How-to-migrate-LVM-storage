@@ -4,7 +4,7 @@
 
 # /dev/sdb is the current disk
 
-# /dev/sdc is the new disk. To this disk we will migrate the volume
+# /dev/sdc is the new disk
 
 df -hP /opt/data
 
