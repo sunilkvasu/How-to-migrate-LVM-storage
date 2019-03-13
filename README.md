@@ -1,4 +1,4 @@
-# How-to-migrate-LVM-storage
+# How-to-migrate-LVM-storage-online
 
 # Migrate data from /dev/sdc to /dev/sdb
 
