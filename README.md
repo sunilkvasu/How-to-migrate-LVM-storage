@@ -12,3 +12,7 @@ lvconvert -m1 vg_data/lv_opt_data /dev/sdc
 
 lvconvert -m0 vg_data/lv_opt_data /dev/sdb
 
+vgreduce vg_data /dev/sdb
+
+pvremove /dev/sdb
+
